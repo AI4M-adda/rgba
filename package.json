@@ -5,6 +5,9 @@
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
+    "dev:account": "turbo dev --filter=account",
+    "dev:api": "turbo dev --filter=api",
+    "dev:components": "turbo dev --filter=components",
     "lint": "turbo lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
