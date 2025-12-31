@@ -15,6 +15,7 @@
     "utils": "@rgba/ui/lib/utils",
     "hooks": "@rgba/ui/hooks",
     "lib": "@rgba/ui/lib",
-    "ui": "@rgba/ui/components"
+    "ui": "@rgba/ui/components",
+    "variants": "@rgba/ui/variants"
   }
 }
